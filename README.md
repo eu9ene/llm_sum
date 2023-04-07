@@ -1,5 +1,5 @@
-# llm_sum
-Exploration of summarization wiht Large Language Models as a part of Stanford cs224u course project.
+# Summarization with LLMs
+Exploration of styled summarization with Large Language Models as a part of Stanford cs224u course project.
 
 Datasets:
 - CNN/DailyMail
